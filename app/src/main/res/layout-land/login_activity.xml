@@ -12,6 +12,7 @@
         android:id="@+id/vkIcon"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:src="@drawable/vk"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
